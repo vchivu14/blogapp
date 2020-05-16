@@ -12,3 +12,13 @@
   <li>python3 manage.py runserver</li>
   <li>check localhost:8000</li>
 </ol>
+<h5> Create a file named config.json on your computer with your credentials to enable mail retrieval</h5>
+<p>
+$ sudo nano /etc/config.json
+# and paste in your own credentials
+{
+        "EMAIL_USER": "",
+        "EMAIL_PASS": ""
+}
+</p>
+
