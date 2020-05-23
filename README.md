@@ -23,4 +23,4 @@
 </ul>
 <h5>Don't share this file with anyone</h5>
 
-<h5>And thanks to Corey Schaffer for his tutorial to build this</h5>
+<h5>And thanks to Corey Schaffer for his tutorial, which helped me build this app</h5>
